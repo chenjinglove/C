@@ -1,0 +1,4 @@
+﻿  snake.cpp
+c:\users\hp\desktop\c语言学习\数据结构--vs2017\贪吃蛇游戏\贪吃蛇游戏\snake.cpp(46): warning C4002: 类函数宏的调用“RGB”参数过多
+c:\users\hp\desktop\c语言学习\数据结构--vs2017\贪吃蛇游戏\贪吃蛇游戏\snake.cpp(135): warning C4002: 类函数宏的调用“RGB”参数过多
+  贪吃蛇游戏.vcxproj -> C:\Users\hp\Desktop\C语言学习\数据结构--vs2017\贪吃蛇游戏\Debug\贪吃蛇游戏.exe
